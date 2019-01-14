@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/top/ysccx/myfirstapp/AbstractBoard.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/top/ysccx/myfirstapp/FullBoard.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/top/ysccx/myfirstapp/GameConf.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/top/ysccx/myfirstapp/GameService.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/top/ysccx/myfirstapp/GameServiceImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/top/ysccx/myfirstapp/HorizontalBoard.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/top/ysccx/myfirstapp/ImageUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/top/ysccx/myfirstapp/LinkInfo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/top/ysccx/myfirstapp/VerticalBoard.java" charset="GBK" />
+  </component>
+</project>
